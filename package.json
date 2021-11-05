@@ -12,9 +12,8 @@
     "nodemon": "^2.0.14"
   },
   "scripts": {
-    "start": "json-server --watch db.json",
+    "start": "node main.js",
     "dev": "nodemon main.js",
-    "node": "node main.js",
     "faker": "node generate-data"
   },
   "author": "",
