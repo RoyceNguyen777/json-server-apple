@@ -1,0 +1,22 @@
+{
+  "name": "json-server-apple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "casual": "^1.6.2",
+    "faker": "^5.5.3",
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "dev": "nodemon main.js",
+    "node": "node main.js",
+    "faker": "node generate-data"
+  },
+  "author": "",
+  "license": "ISC"
+}

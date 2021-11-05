@@ -1,0 +1,131 @@
+{
+  "product-list": [
+    {
+      "id": 1,
+      "name": "Iphone 11 Pro",
+      "prize": "18tr",
+      "stock": 12,
+      "categoryId": 1,
+      "src": "https://www.viettablet.com/images/detailed/36/iphone-11-pro-anh-dai-dien-new-update-01.png"
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro 13",
+      "prize": "20tr",
+      "stock": 5,
+      "categoryId": 2,
+      "src": "https://cdn.tgdd.vn/Products/Images/44/243952/apple-macbook-air-m1-2020-z12a00050-600x600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ipap Pro",
+      "prize": "10tr",
+      "stock": 3,
+      "categoryId": 3,
+      "src": "https://cdn.tgdd.vn/Products/Images/522/238626/ipad-pro-2021-11-inch-silver-600x600.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Macbook Air M1",
+      "prize": "24tr",
+      "stock": 2,
+      "categoryId": 2,
+      "src": "https://macshop24h.com/upload/source/MacBook_Air_2018_m%C3%A0u_Gold_1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ipad mini 6",
+      "prize": "23tr",
+      "stock": 10,
+      "categoryId": 3,
+      "src": "https://cdn.tgdd.vn/Products/Images/522/250735/ipad-mini-6-wifi-cellular-grey-1-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ipad Pro 11",
+      "prize": "26tr",
+      "stock": 10,
+      "categoryId": 3,
+      "src": "https://stcv4.hnammobile.com/uploads/products/colors/4/apple-ipad-air-4-10-9-wifi-64gb-2020-01616388307.jpg"
+    },
+    {
+      "id": 7,
+      "name": "iPad mini 7.9 ",
+      "prize": "14tr",
+      "stock": 10,
+      "categoryId": 3,
+      "src": "https://stcv4.hnammobile.com/uploads/products/colors/4/apple-ipad-pro-11-wifi-128gb-2021-chip-m1-01630588238.jpg"
+    },
+    {
+      "id": 8,
+      "name": "MacBook Pro 13",
+      "prize": "18tr",
+      "stock": 10,
+      "categoryId": 2,
+      "src": "https://24hstore.vn/images/products/2021/05/20/large/mac-pro-m1-2020-gray_1621504278_1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "iPhone 12",
+      "prize": "19tr",
+      "stock": 10,
+      "categoryId": 1,
+      "src": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/ip12-2_11.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Mobile",
+      "slug": "mobile"
+    },
+    {
+      "id": 2,
+      "name": "Mac",
+      "slug": "Mac"
+    },
+    {
+      "id": 3,
+      "name": "IPad",
+      "slug": "IPad"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "Jone",
+      "email": "jone2012@gmail.com",
+      "src": "https://softaims.co.uk/assets/user-blog-3-f6ab85d2e4fb23bf30c2b0fc813987bc1391595ac059dfc1a0191654c13c50d3.png"
+    },
+    {
+      "id": 2,
+      "username": "Victory",
+      "email": "victory45@gmail.com",
+      "src": "https://uruk.qa/wp-content/uploads/revslider/home-v7-inner/round-expert-5.png"
+    },
+    {
+      "id": 3,
+      "username": "Ava",
+      "email": "Ava2015@gmail.com",
+      "src": "https://i1.wp.com/roohentertainment.com/wp-content/uploads/2018/06/user-avatar-1.png?ssl=1"
+    },
+    {
+      "id": 4,
+      "username": "Ham",
+      "email": "Ham546@gmail.com",
+      "src": "https://www.kindpng.com/picc/m/719-7191738_round-png-image-man-transparent-png.png"
+    },
+    {
+      "id": 5,
+      "username": "Bill",
+      "email": "Bill555@gmail.com",
+      "src": "https://i1.wp.com/roohentertainment.com/wp-content/uploads/2018/06/user-avatar-1.png?ssl=1"
+    },
+    {
+      "id": 6,
+      "username": "Luna",
+      "email": "Luna123@gmail.com",
+      "src": "https://thestemlaboratory.com/wp-content/uploads/2020/10/Circle-Headshot-1-4.png"
+    }
+  ]
+}

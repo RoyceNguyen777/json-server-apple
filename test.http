@@ -1,0 +1,32 @@
+@url= http://localhost:3000/api
+
+## GET API
+GET {{url}}/user
+
+### 
+
+## POST API
+
+POST {{url}}/user
+Content-Type: application/json
+
+{
+    "username":"Mr.Test",
+    "email" :"Mrtestgmail.com",
+    "src":" "
+}
+
+###
+
+# PATCH API
+PATCH  {{url}}/user/7
+Content-Type: application/json
+
+{
+    "username":"Mr.Test 2"
+}
+
+###
+
+# DELETE API
+DELETE  {{url}}/user/10
