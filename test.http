@@ -1,7 +1,7 @@
 @url= http://localhost:3000/api
 
 ## GET API
-GET {{url}}/user
+GET http://localhost:3000/api/user
 
 ### 
 
