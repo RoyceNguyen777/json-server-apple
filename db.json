@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Macbook Air M1",
       "prize": "24tr",
-      "stock": 2,
+      "stock": 6,
       "categoryId": 2,
       "src": "https://macshop24h.com/upload/source/MacBook_Air_2018_m%C3%A0u_Gold_1.jpg"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "name": "Ipad Pro 11",
       "prize": "26tr",
-      "stock": 10,
+      "stock": 2,
       "categoryId": 3,
       "src": "https://stcv4.hnammobile.com/uploads/products/colors/4/apple-ipad-air-4-10-9-wifi-64gb-2020-01616388307.jpg"
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "name": "MacBook Pro 13",
       "prize": "18tr",
-      "stock": 10,
+      "stock": 8,
       "categoryId": 2,
       "src": "https://24hstore.vn/images/products/2021/05/20/large/mac-pro-m1-2020-gray_1621504278_1.jpg"
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "name": "iPhone 12",
       "prize": "19tr",
-      "stock": 10,
+      "stock": 7,
       "categoryId": 1,
       "src": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/ip12-2_11.jpg"
     }
