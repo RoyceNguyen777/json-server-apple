@@ -76,12 +76,12 @@
   "categories": [
     {
       "id": 1,
-      "name": "Mobile",
+      "name": "IPhone",
       "slug": "mobile"
     },
     {
       "id": 2,
-      "name": "Mac",
+      "name": "MacBook",
       "slug": "Mac"
     },
     {
